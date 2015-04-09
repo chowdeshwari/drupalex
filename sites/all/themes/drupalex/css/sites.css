@@ -1,0 +1,7 @@
+body{
+  img.header__logo-image {
+  width: 200px;
+  margin-left: 10%;
+  border-radius: 100% 50% 100% 50%;
+  }
+}
